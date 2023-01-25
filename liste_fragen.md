@@ -18,12 +18,12 @@ Namensnennung und Weitergabe unter gleichen Bedingungen!
 ---
 
 ### 1 Was sind Sterne?
-
+             {{1}}
 ![Sterne](image_small/01_Was_sind_Sterne.png)
 
 ---          
-           {{2}}    
-Sterne sind im Grunde nichts Anderes als sehr ferne Sonnen. Wie unsere Sonne sind Sterne riesige, heiße Gasbälle. Sterne leuchten selber, weil sie im Inneren gewaltige Mengen an Energie freisetzen. Dort ist es viele Millionen Grad heiß, und auch an der Oberfläche herrschen noch Temperaturen von mehreren tausend Grad. Diese Hitze strahlen die Sterne dann in Form von sichtbarem Licht ab, aber auch in Form von Wärme anderer unsichtbarer Strahlung.
+
+{{2-3}} Sterne sind im Grunde nichts Anderes als sehr ferne Sonnen. Wie unsere Sonne sind Sterne riesige, heiße Gasbälle. Sterne leuchten selber, weil sie im Inneren gewaltige Mengen an Energie freisetzen. Dort ist es viele Millionen Grad heiß, und auch an der Oberfläche herrschen noch Temperaturen von mehreren tausend Grad. Diese Hitze strahlen die Sterne dann in Form von sichtbarem Licht ab, aber auch in Form von Wärme anderer unsichtbarer Strahlung.
 Unsere Sonne gehört dabei noch zu den kleineren Sternen, ist aber auch schon so groß, dass weit über eine Million Erdkugeln in ihr Platz hätten. Andere Sterne können die Größe unseres gesamten Planetensystems erreichen. Dabei können Sterne wie unsere Sonne viele Milliarden Jahre lang leuchten. Je schwerer ein Stern ist, desto heller strahlt er auch. Allerdings gehen solcher Riesensterne sehr verschwenderisch mit ihrem Brennstoffvorrat um und leuchten nur wenige Millionen Jahre. Im Gegensatz dazu leuchten Planeten und Monde nicht selbst, sondern werden von der Sonne angestrahlt. Deshalb ist es auf der Erde nach Sonnenuntergang dunkel.
 
 > Andreas Vogel ist Leiter des Olbers Planetarium der Hochschule Bremen
